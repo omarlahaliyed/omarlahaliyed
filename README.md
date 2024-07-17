@@ -12,7 +12,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis          | <a href="https://google.com">Manual Artifact Extraction and Attachment Analysis</a>|
+| Phishing Analysis          | <a href="[https://google.com](https://github.com/omarlahaliyed/Manual-Artifact-Extraction-and-Attachment-Analysis)">Manual Artifact Extraction and Attachment Analysis</a>|
 | Threat Intelligence | <a href="https://google.com">Threat Intel Platform: MISP</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
